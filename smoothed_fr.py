@@ -23,6 +23,8 @@ RIGHT_LANDMARKS = [
     PLM.RIGHT_FOOT_INDEX # 32
 ]
 
+# rrrrrrrrrrrrrrrrrrrrrr
+
 # 오른쪽 측면 연결 관계
 RIGHT_CONNECTIONS = [
     (PLM.RIGHT_SHOULDER, PLM.RIGHT_ELBOW),
